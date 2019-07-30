@@ -1,12 +1,12 @@
 <p align="center"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" width="1500" heigth="500"></p>
 
 
-# _Proyecto de visión por Computador: Descriptor de Acciones mientras se Conduce_
+# _Proyecto de Visión por Computador: Descriptor de Acciones mientras se Conduce_
 - Henry Peña
 - Diego Medina
 
 
-**Universidad Indsutrial De Santander** </br>
+**Universidad Industrial De Santander** </br>
 **Ingenieria de sistemas**</br>
 **2019**</br>
 <p align="center"><img src="http://garza.uis.edu.co/idayregreso/images/logoUIS.jpg" width="342" heigth="166"></p>
