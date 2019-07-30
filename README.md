@@ -14,7 +14,9 @@
 
 # Introduccion
 
-El planteamiento del proyecto consiste en crear un descriptor de acciones para un conductor de automovil, por medio del entrenamiento de redes neuronales y otras técnicas de Visión por Computador.
+En Colombia en 2016 hubo accidentes 85.426 accidentes automovilísticos con heridos y 3.406 con muertos causados por conductores distraídos. Según Fesvial, Federación Española de la Seguridad Vial, el 45% de los accidentes se podrían prevenir si los conductores estuvieran siempre atentos a la carretera.
+
+El planteamiento del proyecto consiste en crear un clasificador de acciones para un conductor de automovil, por medio del entrenamiento de redes neuronales y otras técnicas de Visión por Computador, para identificar cuando un conductor se encuentre distraído.
 
 Para esto se Utilizará como entrenamiento un Dataset de 22400 imágenes con su respectivo label de la acción que está haciendo, 10 en total:
 
