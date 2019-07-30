@@ -42,7 +42,10 @@ Para esto se Utilizará como entrenamiento un Dataset de 22400 imágenes con su 
 -Aplicar los métodos vistos en las clases de Visión por Computador.
 
 # Referencias
-Los datos del dataset fueron recogidos de un challenge de Kaggle
+Los datos del dataset fueron recogidos de un challenge de Kaggle:
+
 -https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview
+
 -https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
 -https://towardsdatascience.com/image-recognition-with-keras-convolutional-neural-networks-e2af10a10114
