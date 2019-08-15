@@ -43,6 +43,19 @@ Para esto se Utilizará como entrenamiento un Dataset de 22400 imágenes con su 
 
 -Aplicar los métodos vistos en las clases de Visión por Computador.
 
+# Aplicaciones posibles
+
+-Sistema de alerta para cuando un conductor se encuentre realizando una llamada telefónica o texteando.
+
+-Respuesta en tiempo real para cuando un conductor se quede dormido al volante.
+
+-Activar automáticamente configuraciones salvadas como la posición del asiento.
+
+-Reconocimiento e indexación de conductores en base a factores de riesgo.
+
+-Refuerzo de seguridad y auditoría en el uso de maquinaria pesada.
+
+
 # Referencias
 Los datos del dataset fueron recogidos de un challenge de Kaggle:
 
