@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/XrpnuvM.jpg" width="1500" heigth="500"></p>
+
 <p align="center"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" width="1500" heigth="500"></p>
 
 
@@ -10,7 +12,6 @@
 **Ingenieria de sistemas**</br>
 **2019**</br>
 <p align="center"><img src="http://garza.uis.edu.co/idayregreso/images/logoUIS.jpg" width="342" heigth="166"></p>
-<p align="center"><img src="https://imgur.com/a/WRzGr7x" width="342" heigth="166"></p>
 
 
 # Introduccion
