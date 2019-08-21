@@ -13,6 +13,11 @@
 
 <p align="center"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" width="1500" heigth="500"></p>
 
+# ¡Dale click para ver el video!
+
+[![Foo](https://i.imgur.com/pCV60S7.jpg)](https://youtu.be/SEwkZdSYvYc)
+
+
 # Introduccion
 
 En Colombia en 2016 hubo accidentes 85.426 accidentes automovilísticos con heridos y 3.406 con muertos causados por conductores distraídos. Según Fesvial, Federación Española de la Seguridad Vial, el 45% de los accidentes se podrían prevenir si los conductores estuvieran siempre atentos a la carretera.
